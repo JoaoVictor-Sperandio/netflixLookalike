@@ -1,0 +1,20 @@
+img{
+  max-width: 100%;
+  cursor: pointer;
+}
+
+h5{
+  color: #fff;
+  cursor: pointer;
+}
+
+button{
+  background-color:  rgb(88, 0, 0);;
+  color: #fff;
+}
+
+button:hover{
+  background-color: red;
+  color: #fff;
+  border: 1px solid #fff;
+}
